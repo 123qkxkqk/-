@@ -1,8 +1,6 @@
 
 # 浏览器自动化办公（基于pandas+selenium）
 ## 项目演示
-![演示](https://github.com/user-attachments/assets/708c4f45-38f1-47b3-b1c6-f70f5bd4a2c4)
-
 ![项目成果演示](项目演示.gif)
 ## 项目说明：
 ### 1.工作流程：
