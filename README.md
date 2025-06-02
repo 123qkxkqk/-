@@ -2,6 +2,8 @@
 # 浏览器自动化办公（基于pandas+selenium）
 ## 项目演示
 ![项目演示](https://github.com/user-attachments/assets/c544d361-1677-4402-ba06-b7589e40e14b)
+
+#### 视频版: ![项目演示](https://github.com/user-attachments/assets/225cdfc2-ec8d-4b31-a57c-b11f5f1cbd90)
 ## 项目说明：
 ### 1.工作流程：
  1.1 实际操作中需要用到excel表格，对应的字段复制粘贴到浏览器指定位置，并且点击相应按钮，粘贴相应链接上传广告创意。
